@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Caja" size="10.000000 15.668965" />
+    <ImageTarget name="Diamante" size="10.000000 16.594324" />
+    <ImageTarget name="Trebol" size="10.000000 15.125554" />
+    <ImageTarget name="Pica" size="10.000000 14.668631" />
+    <ImageTarget name="Corazon" size="10.000000 15.313479" />
+    <ImageTarget name="Danone" size="10.000000 4.860814" />
+  </Tracking>
+</QCARConfig>

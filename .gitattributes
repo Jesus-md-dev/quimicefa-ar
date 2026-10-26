@@ -1,0 +1,36 @@
+* text=auto
+
+# Unity YAML
+*.unity    text eol=lf merge=unityyamlmerge
+*.prefab   text eol=lf merge=unityyamlmerge
+*.asset    text eol=lf merge=unityyamlmerge
+*.mat      text eol=lf merge=unityyamlmerge
+*.meta     text eol=lf merge=unityyamlmerge
+*.anim     text eol=lf merge=unityyamlmerge
+*.controller text eol=lf merge=unityyamlmerge
+*.physicMaterial text eol=lf merge=unityyamlmerge
+*.lighting text eol=lf merge=unityyamlmerge
+*.mixer    text eol=lf merge=unityyamlmerge
+*.renderTexture text eol=lf merge=unityyamlmerge
+*.cs       text diff=csharp
+
+# Binaries
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.tga binary
+*.psd binary
+*.exr binary
+*.hdr binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.fbx binary
+*.FBX binary
+*.obj binary
+*.blend binary
+*.ttf binary
+*.otf binary
+*.dat binary
+*.unitypackage binary
